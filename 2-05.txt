@@ -1,8 +1,0 @@
-OOPS Overview
-class & object (Create)
-how variable declared
-Different data Types(decimal)
-diff between fun overloading & fun overriding
-Value type variable - what is struct and enum
-Refrence type variable
-what is get and set
