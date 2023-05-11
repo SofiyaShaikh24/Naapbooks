@@ -1,0 +1,15 @@
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.exe
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.deps.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.runtimeconfig.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.csproj.AssemblyReference.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.AssemblyInfoInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.AssemblyInfo.cs
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.csproj.CoreCompileInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\refint\rock_paper.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.genruntimeconfig.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\rock_paper\rock_paper\obj\Debug\net6.0\ref\rock_paper.dll

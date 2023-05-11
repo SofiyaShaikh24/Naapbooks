@@ -1,0 +1,15 @@
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\bin\Debug\net6.0\Bank New.exe
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\bin\Debug\net6.0\Bank New.deps.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\bin\Debug\net6.0\Bank New.runtimeconfig.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\bin\Debug\net6.0\Bank New.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\bin\Debug\net6.0\Bank New.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\Bank New.csproj.AssemblyReference.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\Bank New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\Bank New.AssemblyInfoInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\Bank New.AssemblyInfo.cs
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\Bank New.csproj.CoreCompileInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\Bank New.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\refint\Bank New.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\Bank New.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\Bank New.genruntimeconfig.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Bank New\Bank New\obj\Debug\net6.0\ref\Bank New.dll
