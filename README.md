@@ -18,3 +18,9 @@ Property - Accessor,
 method
 ReadOnly
 Git
+
+Day5
+Statments
+Loops
+data types
+
