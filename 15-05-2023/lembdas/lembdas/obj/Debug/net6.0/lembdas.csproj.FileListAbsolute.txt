@@ -1,0 +1,15 @@
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\bin\Debug\net6.0\lembdas.exe
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\bin\Debug\net6.0\lembdas.deps.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\bin\Debug\net6.0\lembdas.runtimeconfig.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\bin\Debug\net6.0\lembdas.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\bin\Debug\net6.0\lembdas.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\lembdas.csproj.AssemblyReference.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\lembdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\lembdas.AssemblyInfoInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\lembdas.AssemblyInfo.cs
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\lembdas.csproj.CoreCompileInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\lembdas.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\refint\lembdas.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\lembdas.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\lembdas.genruntimeconfig.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\lembdas\lembdas\obj\Debug\net6.0\ref\lembdas.dll
