@@ -1,0 +1,15 @@
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\bin\Debug\net6.0\Method overriding.exe
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\bin\Debug\net6.0\Method overriding.deps.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\bin\Debug\net6.0\Method overriding.runtimeconfig.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\bin\Debug\net6.0\Method overriding.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\bin\Debug\net6.0\Method overriding.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\Method overriding.csproj.AssemblyReference.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\Method overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\Method overriding.AssemblyInfoInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\Method overriding.AssemblyInfo.cs
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\Method overriding.csproj.CoreCompileInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\Method overriding.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\refint\Method overriding.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\Method overriding.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\Method overriding.genruntimeconfig.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\Method overriding\Method overriding\obj\Debug\net6.0\ref\Method overriding.dll
