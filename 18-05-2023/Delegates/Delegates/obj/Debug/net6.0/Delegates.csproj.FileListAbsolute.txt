@@ -1,0 +1,15 @@
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\bin\Debug\net6.0\Delegates.exe
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Delegates\Delegates\obj\Debug\net6.0\ref\Delegates.dll

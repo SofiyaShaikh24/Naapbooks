@@ -1,0 +1,15 @@
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\Multicast delegates.csproj.AssemblyReference.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\Multicast delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\Multicast delegates.AssemblyInfoInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\Multicast delegates.AssemblyInfo.cs
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\Multicast delegates.csproj.CoreCompileInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\bin\Debug\net6.0\Multicast delegates.exe
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\bin\Debug\net6.0\Multicast delegates.deps.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\bin\Debug\net6.0\Multicast delegates.runtimeconfig.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\bin\Debug\net6.0\Multicast delegates.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\bin\Debug\net6.0\Multicast delegates.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\Multicast delegates.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\refint\Multicast delegates.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\Multicast delegates.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\Multicast delegates.genruntimeconfig.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Multicast delegates\Multicast delegates\obj\Debug\net6.0\ref\Multicast delegates.dll

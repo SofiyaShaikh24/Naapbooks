@@ -1,0 +1,15 @@
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\NBDPDL0038\Desktop\Sof\Git Projects\repos\Naapbooks\18-05-2023\Classes\Classes\obj\Debug\net6.0\ref\Classes.dll
